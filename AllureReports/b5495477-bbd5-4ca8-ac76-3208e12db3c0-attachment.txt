@@ -1,0 +1,4 @@
+[32mINFO    [0m Test_CredKart_Login:test_Login.py:12 this is info
+[33mWARNING [0m Test_CredKart_Login:test_Login.py:13 this is warning
+[31m[1mERROR   [0m Test_CredKart_Login:test_Login.py:14 this is error
+[31mCRITICAL[0m Test_CredKart_Login:test_Login.py:15 this is critical

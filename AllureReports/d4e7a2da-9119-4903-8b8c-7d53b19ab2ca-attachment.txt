@@ -1,0 +1,6 @@
+[32mINFO    [0m root:test_Login.py:10 Started testcase test_pageTitle_001
+[32mINFO    [0m root:test_Login.py:11 Opening the the browser
+[32mINFO    [0m root:test_Login.py:12 Checking the Page titleCredKart
+[32mINFO    [0m root:test_Login.py:15 Taking the screenshot
+[32mINFO    [0m root:test_Login.py:17 Testcase test_pageTitle_001 is passed
+[32mINFO    [0m root:test_Login.py:25 Testcase test_pageTitle_001 is completed

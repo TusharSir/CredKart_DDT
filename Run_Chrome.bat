@@ -1,0 +1,1 @@
+pytest -v --html=Reports/myreport.html --alluredir="D:\Credence Class Notes\CredenceBatches\CredenceBatch#14 & 15\CredKart_Pytest_Project\allure-results" -n=2  testCases/test_Login.py --browser chrome

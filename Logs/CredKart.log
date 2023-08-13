@@ -1,0 +1,141 @@
+2023-08-05 08:40:52,090 : INFO : Test_CredKart_Login : test_pageTitle_001 : 15 : this is info 
+2023-08-05 08:40:52,091 : WARNING : Test_CredKart_Login : test_pageTitle_001 : 16 : this is warning 
+2023-08-05 08:40:52,091 : ERROR : Test_CredKart_Login : test_pageTitle_001 : 17 : this is error 
+2023-08-05 08:40:52,092 : CRITICAL : Test_CredKart_Login : test_pageTitle_001 : 18 : this is critical 
+2023-08-05 08:40:52,092 : INFO : Test_CredKart_Login : test_pageTitle_001 : 20 : Started testcase test_pageTitle_001 
+2023-08-05 08:40:52,092 : INFO : Test_CredKart_Login : test_pageTitle_001 : 21 : Opening the the browser 
+2023-08-05 08:40:52,100 : INFO : Test_CredKart_Login : test_pageTitle_001 : 22 : Checking the Page title:- CredKart 
+2023-08-05 08:40:52,164 : INFO : Test_CredKart_Login : test_CredKart_Login_002 : 40 : Started testcase test_CredKart_Login_002 
+2023-08-05 08:40:52,165 : INFO : Test_CredKart_Login : test_CredKart_Login_002 : 41 : Opening browser 
+2023-08-05 08:40:52,243 : INFO : Test_CredKart_Login : test_pageTitle_001 : 25 : Taking the screenshot 
+2023-08-05 08:40:52,320 : INFO : Test_CredKart_Login : test_pageTitle_001 : 27 : Testcase test_pageTitle_001 is passed 
+2023-08-05 08:40:52,320 : INFO : Test_CredKart_Login : test_pageTitle_001 : 35 : Testcase test_pageTitle_001 is completed 
+2023-08-05 08:40:52,640 : INFO : Test_CredKart_Login : test_CredKart_Login_002 : 44 : Click on login link 
+2023-08-05 08:40:52,765 : INFO : Test_CredKart_Login : test_CredKart_Login_002 : 47 : Entering Email  
+2023-08-05 08:40:52,947 : INFO : Test_CredKart_Login : test_CredKart_Login_002 : 50 : Entering Password 
+2023-08-05 08:40:53,804 : INFO : Test_CredKart_Login : test_CredKart_Login_002 : 53 : Click on login button 
+2023-08-05 08:40:54,113 : INFO : Test_CredKart_Login : test_CredKart_Login_002 : 58 : Taking screenshot 
+2023-08-05 08:40:54,113 : INFO : Test_CredKart_Login : test_CredKart_Login_002 : 59 : Testcase test_CredKart_Login_002 is passed 
+2023-08-05 08:40:54,114 : INFO : Test_CredKart_Login : test_CredKart_Login_002 : 66 : Testcase test_CredKart_Login_002 is Completed 
+2023-08-05 08:41:49,367 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 18 : Started testcase test_CredKart_Login_ddt_006 
+2023-08-05 08:41:49,367 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 19 : Opening browser 
+2023-08-05 08:41:49,400 : INFO : Test_CredKart_Login : test_pageTitle_001 : 15 : this is info 
+2023-08-05 08:41:49,401 : WARNING : Test_CredKart_Login : test_pageTitle_001 : 16 : this is warning 
+2023-08-05 08:41:49,401 : ERROR : Test_CredKart_Login : test_pageTitle_001 : 17 : this is error 
+2023-08-05 08:41:49,401 : CRITICAL : Test_CredKart_Login : test_pageTitle_001 : 18 : this is critical 
+2023-08-05 08:41:49,401 : INFO : Test_CredKart_Login : test_pageTitle_001 : 20 : Started testcase test_pageTitle_001 
+2023-08-05 08:41:49,402 : INFO : Test_CredKart_Login : test_pageTitle_001 : 21 : Opening the the browser 
+2023-08-05 08:41:49,409 : INFO : Test_CredKart_Login : test_CredKart_Login_002 : 40 : Started testcase test_CredKart_Login_002 
+2023-08-05 08:41:49,409 : INFO : Test_CredKart_Login : test_CredKart_Login_002 : 41 : Opening browser 
+2023-08-05 08:41:49,412 : INFO : Test_CredKart_Login : test_pageTitle_001 : 22 : Checking the Page title:- CredKart 
+2023-08-05 08:41:49,553 : INFO : Test_CredKart_Login : test_pageTitle_001 : 25 : Taking the screenshot 
+2023-08-05 08:41:49,626 : INFO : Test_CredKart_Login : test_pageTitle_001 : 27 : Testcase test_pageTitle_001 is passed 
+2023-08-05 08:41:49,626 : INFO : Test_CredKart_Login : test_pageTitle_001 : 35 : Testcase test_pageTitle_001 is completed 
+2023-08-05 08:41:49,735 : INFO : Test_CredKart_Login : test_CredKart_Login_002 : 44 : Click on login link 
+2023-08-05 08:41:49,870 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 29 : Click on login link 
+2023-08-05 08:41:49,898 : INFO : Test_CredKart_Login : test_CredKart_Login_002 : 47 : Entering Email  
+2023-08-05 08:41:50,012 : INFO : Test_CredKart_Login : test_CredKart_Login_002 : 50 : Entering Password 
+2023-08-05 08:41:50,028 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 31 : Entering Email:-Credencetest@test.com 
+2023-08-05 08:41:50,134 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 33 : Entering Password:-Credence@123 
+2023-08-05 08:41:50,809 : INFO : Test_CredKart_Login : test_CredKart_Login_002 : 53 : Click on login button 
+2023-08-05 08:41:50,969 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 35 : Click on Login Button 
+2023-08-05 08:41:51,000 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 39 : This case is Pass 
+2023-08-05 08:41:51,027 : INFO : Test_CredKart_Login : test_CredKart_Login_002 : 58 : Taking screenshot 
+2023-08-05 08:41:51,028 : INFO : Test_CredKart_Login : test_CredKart_Login_002 : 59 : Testcase test_CredKart_Login_002 is passed 
+2023-08-05 08:41:51,028 : INFO : Test_CredKart_Login : test_CredKart_Login_002 : 66 : Testcase test_CredKart_Login_002 is Completed 
+2023-08-05 08:41:51,166 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 42 : Taking screenshot 
+2023-08-05 08:41:51,278 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 44 : Click on Menu button 
+2023-08-05 08:41:51,833 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 46 : Click on Logout button 
+2023-08-05 08:41:52,339 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 29 : Click on login link 
+2023-08-05 08:41:52,493 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 31 : Entering Email:-Credencetest@test.com1 
+2023-08-05 08:41:52,637 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 33 : Entering Password:-Credence@123 
+2023-08-05 08:41:53,358 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 35 : Click on Login Button 
+2023-08-05 08:41:53,409 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 66 : This case is Pass 
+2023-08-05 08:41:53,693 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 29 : Click on login link 
+2023-08-05 08:41:53,841 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 31 : Entering Email:-Credencetest@test.com 
+2023-08-05 08:41:54,081 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 33 : Entering Password:-Credence@1231 
+2023-08-05 08:41:54,552 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 35 : Click on Login Button 
+2023-08-05 08:41:54,603 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 66 : This case is Pass 
+2023-08-05 08:41:54,994 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 29 : Click on login link 
+2023-08-05 08:41:55,376 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 31 : Entering Email:-Credencetest@test.com1 
+2023-08-05 08:41:55,768 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 33 : Entering Password:-Credence@1231 
+2023-08-05 08:41:56,221 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 35 : Click on Login Button 
+2023-08-05 08:41:56,299 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 66 : This case is Pass 
+2023-08-05 08:41:56,343 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 70 : Login_status_List-->['Pass', 'Pass', 'Pass', 'Pass'] 
+2023-08-05 08:41:56,344 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 73 : Data driven testcase test_CredKart_Login_ddt_006 is passed 
+2023-08-05 08:41:56,344 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 78 : Data driven testcase test_CredKart_Login_ddt_006 is completed 
+2023-08-05 08:44:20,595 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 17 : Started testcase test_CredKart_Login_ddt_006 
+2023-08-05 08:44:20,595 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 18 : Opening browser 
+2023-08-05 08:44:21,123 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 28 : Click on login link 
+2023-08-05 08:44:21,262 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 30 : Entering Email:-Credencetest@test.com 
+2023-08-05 08:44:21,382 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 32 : Entering Password:-Credence@123 
+2023-08-05 08:44:22,169 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 34 : Click on Login Button 
+2023-08-05 08:44:22,186 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 38 : This case is Pass 
+2023-08-05 08:44:22,364 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 41 : Taking screenshot 
+2023-08-05 08:44:22,458 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 43 : Click on Menu button 
+2023-08-05 08:44:23,012 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 45 : Click on Logout button 
+2023-08-05 08:44:23,394 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 28 : Click on login link 
+2023-08-05 08:44:23,531 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 30 : Entering Email:-Credencetest@test.com1 
+2023-08-05 08:44:23,696 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 32 : Entering Password:-Credence@123 
+2023-08-05 08:44:24,192 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 34 : Click on Login Button 
+2023-08-05 08:44:24,242 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 65 : This case is Pass 
+2023-08-05 08:44:24,514 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 28 : Click on login link 
+2023-08-05 08:44:24,621 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 30 : Entering Email:-Credencetest@test.com 
+2023-08-05 08:44:24,744 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 32 : Entering Password:-Credence@1231 
+2023-08-05 08:44:25,231 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 34 : Click on Login Button 
+2023-08-05 08:44:25,276 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 65 : This case is Pass 
+2023-08-05 08:44:25,573 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 28 : Click on login link 
+2023-08-05 08:44:25,747 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 30 : Entering Email:-Credencetest@test.com1 
+2023-08-05 08:44:25,824 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 32 : Entering Password:-Credence@1231 
+2023-08-05 08:44:26,276 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 34 : Click on Login Button 
+2023-08-05 08:44:26,302 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 65 : This case is Pass 
+2023-08-05 08:44:26,325 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 69 : Login_status_List-->['Pass', 'Pass', 'Pass', 'Pass'] 
+2023-08-05 08:44:26,326 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 72 : Data driven testcase test_CredKart_Login_ddt_006 is passed 
+2023-08-05 08:44:26,326 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 77 : Data driven testcase test_CredKart_Login_ddt_006 is completed 
+2023-08-05 08:45:13,481 : INFO : Test_CredKart_Login : test_pageTitle_001 : 15 : this is info 
+2023-08-05 08:45:13,481 : WARNING : Test_CredKart_Login : test_pageTitle_001 : 16 : this is warning 
+2023-08-05 08:45:13,482 : ERROR : Test_CredKart_Login : test_pageTitle_001 : 17 : this is error 
+2023-08-05 08:45:13,482 : CRITICAL : Test_CredKart_Login : test_pageTitle_001 : 18 : this is critical 
+2023-08-05 08:45:13,482 : INFO : Test_CredKart_Login : test_pageTitle_001 : 20 : Started testcase test_pageTitle_001 
+2023-08-05 08:45:13,482 : INFO : Test_CredKart_Login : test_pageTitle_001 : 21 : Opening the the browser 
+2023-08-05 08:45:13,491 : INFO : Test_CredKart_Login : test_pageTitle_001 : 22 : Checking the Page title:- CredKart 
+2023-08-05 08:45:13,627 : INFO : Test_CredKart_Login : test_pageTitle_001 : 25 : Taking the screenshot 
+2023-08-05 08:45:13,660 : INFO : Test_CredKart_Login : test_pageTitle_001 : 27 : Testcase test_pageTitle_001 is passed 
+2023-08-05 08:45:13,660 : INFO : Test_CredKart_Login : test_pageTitle_001 : 35 : Testcase test_pageTitle_001 is completed 
+2023-08-05 08:45:15,820 : INFO : Test_CredKart_Login : test_CredKart_Login_002 : 40 : Started testcase test_CredKart_Login_002 
+2023-08-05 08:45:15,820 : INFO : Test_CredKart_Login : test_CredKart_Login_002 : 41 : Opening browser 
+2023-08-05 08:45:16,145 : INFO : Test_CredKart_Login : test_CredKart_Login_002 : 44 : Click on login link 
+2023-08-05 08:45:16,291 : INFO : Test_CredKart_Login : test_CredKart_Login_002 : 47 : Entering Email  
+2023-08-05 08:45:16,396 : INFO : Test_CredKart_Login : test_CredKart_Login_002 : 50 : Entering Password 
+2023-08-05 08:45:17,121 : INFO : Test_CredKart_Login : test_CredKart_Login_002 : 53 : Click on login button 
+2023-08-05 08:45:17,302 : INFO : Test_CredKart_Login : test_CredKart_Login_002 : 58 : Taking screenshot 
+2023-08-05 08:45:17,303 : INFO : Test_CredKart_Login : test_CredKart_Login_002 : 59 : Testcase test_CredKart_Login_002 is passed 
+2023-08-05 08:45:17,303 : INFO : Test_CredKart_Login : test_CredKart_Login_002 : 66 : Testcase test_CredKart_Login_002 is Completed 
+2023-08-05 08:45:19,729 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 17 : Started testcase test_CredKart_Login_ddt_006 
+2023-08-05 08:45:19,729 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 18 : Opening browser 
+2023-08-05 08:45:20,256 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 28 : Click on login link 
+2023-08-05 08:45:20,435 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 30 : Entering Email:-Credencetest@test.com 
+2023-08-05 08:45:20,557 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 32 : Entering Password:-Credence@123 
+2023-08-05 08:45:21,220 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 34 : Click on Login Button 
+2023-08-05 08:45:21,242 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 38 : This case is Pass 
+2023-08-05 08:45:21,402 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 41 : Taking screenshot 
+2023-08-05 08:45:21,493 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 43 : Click on Menu button 
+2023-08-05 08:45:22,014 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 45 : Click on Logout button 
+2023-08-05 08:45:22,359 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 28 : Click on login link 
+2023-08-05 08:45:22,498 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 30 : Entering Email:-Credencetest@test.com1 
+2023-08-05 08:45:22,588 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 32 : Entering Password:-Credence@123 
+2023-08-05 08:45:23,094 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 34 : Click on Login Button 
+2023-08-05 08:45:23,119 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 65 : This case is Pass 
+2023-08-05 08:45:23,556 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 28 : Click on login link 
+2023-08-05 08:45:23,703 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 30 : Entering Email:-Credencetest@test.com 
+2023-08-05 08:45:23,904 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 32 : Entering Password:-Credence@1231 
+2023-08-05 08:45:24,433 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 34 : Click on Login Button 
+2023-08-05 08:45:24,468 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 65 : This case is Pass 
+2023-08-05 08:45:24,870 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 28 : Click on login link 
+2023-08-05 08:45:24,976 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 30 : Entering Email:-Credencetest@test.com1 
+2023-08-05 08:45:25,111 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 32 : Entering Password:-Credence@1231 
+2023-08-05 08:45:25,442 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 34 : Click on Login Button 
+2023-08-05 08:45:25,491 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 65 : This case is Pass 
+2023-08-05 08:45:25,518 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 69 : Login_status_List-->['Pass', 'Pass', 'Pass', 'Pass'] 
+2023-08-05 08:45:25,519 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 72 : Data driven testcase test_CredKart_Login_ddt_006 is passed 
+2023-08-05 08:45:25,519 : INFO : Test_CredKart_Login_DTT : test_CredKart_Login_ddt_006 : 77 : Data driven testcase test_CredKart_Login_ddt_006 is completed 

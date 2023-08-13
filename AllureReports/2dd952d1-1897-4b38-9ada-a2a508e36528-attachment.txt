@@ -1,0 +1,6 @@
+Launching Chrome Browser
+Opening the the browser
+Checking the Page titleCredKart
+Taking the screenshot
+Testcase test_pageTitle_001 is passed
+Testcase test_pageTitle_001 is completed
